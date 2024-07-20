@@ -1,0 +1,74 @@
+[
+  {
+    "product_id": 1,
+    "name": "Book One",
+    "price": 1000,
+    "description": "A fascinating book.",
+    "categoryId": 1,
+    "imagesList": ["https://uacoxcayzsparjkohdad.supabase.co/storage/v1/object/sign/profile-pics/standing-softcover-book-mockup-psd.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwcm9maWxlLXBpY3Mvc3RhbmRpbmctc29mdGNvdmVyLWJvb2stbW9ja3VwLXBzZC5qcGciLCJpYXQiOjE3MjE0NTY4MDEsImV4cCI6MTc1Mjk5MjgwMX0.s_Bei5_VjWVWxABnuo0MrQiG2bZ-HFjDo1E8N_9hq5E&t=2024-07-20T06%3A26%3A35.322Z","https://uacoxcayzsparjkohdad.supabase.co/storage/v1/object/sign/profile-pics/images%20(2).jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwcm9maWxlLXBpY3MvaW1hZ2VzICgyKS5qcGciLCJpYXQiOjE3MjE0NTY3OTYsImV4cCI6MTc1Mjk5Mjc5Nn0.3u1ksstbdHD_T3vFEQ5kmvbaYDhiVtF7APt9aKaeoFM&t=2024-07-20T06%3A26%3A30.102Z"]
+  },
+  {
+    "product_id": 2,
+    "name": "Book Two",
+    "price": 1500,
+    "description": "Another fascinating book.",
+    "categoryId": 2,
+    "imagesList": ["https://uacoxcayzsparjkohdad.supabase.co/storage/v1/object/sign/profile-pics/book1.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwcm9maWxlLXBpY3MvYm9vazEuanBnIiwiaWF0IjoxNzIxMjk0ODU0LCJleHAiOjE3NTI4MzA4NTR9.aTiGDnRgEAVzAUhdj_s0MpG5-H3k7vtLS2xSuPxJgog&t=2024-07-18T09%3A27%3A31.210Z"]
+  },
+  {
+    "product_id": 3,
+    "name": "Book Three",
+    "price": 2000,
+    "description": "A third fascinating book.",
+    "categoryId": 3,
+    "imagesList": ["https://uacoxcayzsparjkohdad.supabase.co/storage/v1/object/sign/profile-pics/Book-Cover-Mockup-Set.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwcm9maWxlLXBpY3MvQm9vay1Db3Zlci1Nb2NrdXAtU2V0LmpwZyIsImlhdCI6MTcyMTQ1NjI4NiwiZXhwIjoxNzUyOTkyMjg2fQ.SyaLyU_OlVGHxvYgVOAGNbrcienAcnBaNb4MNeRAfCA&t=2024-07-20T06%3A17%3A59.699Z"]
+  },
+  {
+    "product_id": 4,
+    "name": "Book Four",
+    "price": 2500,
+    "description": "A fourth fascinating book.",
+    "categoryId": 4,
+    "imagesList": ["https://uacoxcayzsparjkohdad.supabase.co/storage/v1/object/sign/profile-pics/book5.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwcm9maWxlLXBpY3MvYm9vazUuanBnIiwiaWF0IjoxNzIxNDU2OTQ0LCJleHAiOjE3NTI5OTI5NDR9.Qba7iICib6iMP-m1yDwODZlY6vu0DuMDSUuebvXDaKM&t=2024-07-20T06%3A28%3A57.900Z"]
+  },
+  {
+    "product_id": 5,
+    "name": "Book Five",
+    "price": 3000,
+    "description": "A fifth fascinating book.",
+    "categoryId": 5,
+    "imagesList": ["https://uacoxcayzsparjkohdad.supabase.co/storage/v1/object/sign/profile-pics/Free-Book-Covers-Mockups.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwcm9maWxlLXBpY3MvRnJlZS1Cb29rLUNvdmVycy1Nb2NrdXBzLmpwZyIsImlhdCI6MTcyMTQ1NjM5NiwiZXhwIjoxNzUyOTkyMzk2fQ.NeZo3Nk3GuOOSmH6jzaTlEDukSOX587kNWXHO5JHlBo&t=2024-07-20T06%3A19%3A50.575Z"]
+  },
+  {
+    "product_id": 7,
+    "name": "Book Seven",
+    "price": 4000,
+    "description": "A seventh fascinating book.",
+    "categoryId": 2,
+    "imagesList": ["https://uacoxcayzsparjkohdad.supabase.co/storage/v1/object/sign/profile-pics/book3.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwcm9maWxlLXBpY3MvYm9vazMuanBnIiwiaWF0IjoxNzIxNDU2NDM0LCJleHAiOjE3NTI5OTI0MzR9.-2NMcjSG-nucTzsuJshPKGxNQ7BY3y9tndViPNVnmQI&t=2024-07-20T06%3A20%3A27.589Z"]
+  },
+  {
+    "product_id": 8,
+    "name": "Book Eight",
+    "price": 4500,
+    "description": "An eighth fascinating book.",
+    "categoryId": 3,
+    "imagesList": ["https://uacoxcayzsparjkohdad.supabase.co/storage/v1/object/sign/profile-pics/images%20(1).jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwcm9maWxlLXBpY3MvaW1hZ2VzICgxKS5qcGciLCJpYXQiOjE3MjE0NTY0NTUsImV4cCI6MTc1Mjk5MjQ1NX0.X2vvdW6f9gn5R9c7nxoVmKXQuqSGTBwwWucSW_DbEi4&t=2024-07-20T06%3A20%3A49.531Z"]
+  },
+  {
+    "product_id": 9,
+    "name": "Book Nine",
+    "price": 5000,
+    "description": "A ninth fascinating book.",
+    "categoryId": 4,
+    "imagesList": ["https://uacoxcayzsparjkohdad.supabase.co/storage/v1/object/sign/profile-pics/images.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwcm9maWxlLXBpY3MvaW1hZ2VzLmpwZyIsImlhdCI6MTcyMTQ1NjQ4MiwiZXhwIjoxNzUyOTkyNDgyfQ.zkumqAxXRcAh3z8aazYnS4gCrATrAuD-eC5PHSIynq0&t=2024-07-20T06%3A21%3A16.287Z"]
+  },
+  {
+    "product_id": 10,
+    "name": "Book Ten",
+    "price": 5500,
+    "description": "A tenth fascinating book.",
+    "categoryId": 5,
+    "imagesList": ["https://uacoxcayzsparjkohdad.supabase.co/storage/v1/object/sign/profile-pics/book1.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwcm9maWxlLXBpY3MvYm9vazEuanBnIiwiaWF0IjoxNzIxNDU2NTE5LCJleHAiOjE3NTI5OTI1MTl9.vxdQLUDxVlpSyeaCBmCpwIIHuRmLjaPlwV_kgGOnicQ&t=2024-07-20T06%3A21%3A53.203Z"]
+  }
+]
